@@ -15052,7 +15052,7 @@ var MyApp = /*#__PURE__*/function (_App) {
         __self: this
       }, __jsx("link", {
         rel: "apple-touch-icon",
-        href: "/".concat("explorer", "/logo.png"),
+        href: "/logo.png",
         __source: {
           fileName: _jsxFileName,
           lineNumber: 25
@@ -15063,26 +15063,26 @@ var MyApp = /*#__PURE__*/function (_App) {
         content: "minimum-scale=1, initial-scale=1, width=device-width",
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 29
+          lineNumber: 26
         },
         __self: this
       })), __jsx(_material_ui_core_styles__WEBPACK_IMPORTED_MODULE_9__["ThemeProvider"], {
         theme: utils_theme__WEBPACK_IMPORTED_MODULE_12__["default"],
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 34
+          lineNumber: 31
         },
         __self: this
       }, __jsx(_material_ui_core_CssBaseline__WEBPACK_IMPORTED_MODULE_10__["default"], {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 36
+          lineNumber: 33
         },
         __self: this
       }), __jsx(Component, Object(_babel_runtime_helpers_esm_extends__WEBPACK_IMPORTED_MODULE_0__["default"])({}, pageProps, {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 37
+          lineNumber: 34
         },
         __self: this
       }))));
