@@ -1,0 +1,14 @@
+{
+  "name": "台灣座標系統",
+  "short_name": "台灣座標系統",
+  "description": "台灣座標系統",
+  "icons": [{
+    "src": "/explorer/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/explorer/index.html",
+  "display": "standalone"
+}
